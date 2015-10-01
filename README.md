@@ -1,0 +1,2 @@
+# kadisoka
+Kadisoka Git Hub
